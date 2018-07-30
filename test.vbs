@@ -1,1 +1,2 @@
-wscript.echo "test"
+wscript.echo "test222
+wscript.echo 
